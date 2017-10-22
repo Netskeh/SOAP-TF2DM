@@ -4,16 +4,14 @@
 	{
 		"Version"
 		{
-			"Latest"	"3.7"
+			"Latest"	"3.8"
 		}
-		
-		"Notes"	"Changes in 3.7:"
-		"Notes"	"Added Updater support"
-		"Notes"	"Map specific configuration files"
-		"Notes" "Add option to remove health packs and ammo packs"
-		"Notes" "Various bug fixes and features"
+
+		"Notes"	"Changes in 3.8:"
+		"Notes"	"Support some additional maps"
+		"Notes"	"Automatically download new map configuration files"
 	}
-	
+
 	"Files"
 	{
 		"Plugin"	"Path_SM/plugins/soap_tf2dm.smx"
